@@ -1,3 +1,3 @@
-![https://github.com/zhl530i/schooltask-client/blob/master/Photo/index.png]
-![https://github.com/zhl530i/schooltask-client/blob/master/Photo/regist.png]
-![https://github.com/zhl530i/schooltask-client/blob/master/Photo/order.png]
+![ schooltask-client/Photo/index.png]
+![ schooltask-client/Photo/regist.png]
+![schooltask-client/Photo/order.png]
