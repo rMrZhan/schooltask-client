@@ -2,8 +2,8 @@
         https://github.com/zhl530i/schooltask-client/blob/master/Photo/index.png
       )
 ![注册界面](
-        schooltask-client/Photo/regist.png
+     https://github.com/zhl530i/schooltask-client/blob/master/Photo/index.png
       )
 ![接单界面](
-        schooltask-client/Photo/order.png
+        https://github.com/zhl530i/schooltask-client/blob/master/Photo/index.png
       )
